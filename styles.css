@@ -3,17 +3,27 @@
 	background-color:yellow;
 	border-top-style: solid;
 	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
 	border-width:1px;
 	border-color:green;
 }
 #red{
 	background-color:red;
+	border-top-style: solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
 	border-width:1px;
 	border-color:black;
 	
 }
 #green{
 	background-color:green;
+	border-top-style: solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
 	border-width:1px ;
 	border-color: yellow;
 	
